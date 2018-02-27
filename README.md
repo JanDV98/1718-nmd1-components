@@ -1,4 +1,4 @@
-# New Media Design - 2917 - 2018
+# New Media Design - 2017 - 2018
 
 ## Components Design
 
